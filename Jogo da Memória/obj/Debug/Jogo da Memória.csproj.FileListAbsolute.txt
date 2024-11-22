@@ -1,0 +1,20 @@
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.AssemblyReference.cache
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Form1.resources
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Properties.Resources.resources
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.GenerateResource.cache
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.CoreCompileInputs.cache
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\nuno-\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.pdb
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.AssemblyReference.cache
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Form1.resources
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Properties.Resources.resources
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.GenerateResource.cache
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.CoreCompileInputs.cache
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\07afo\source\repos\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.pdb
